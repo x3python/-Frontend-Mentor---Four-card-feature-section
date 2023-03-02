@@ -8,8 +8,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/frontend-mentor-qr-code-component-LGLKyEeZtj
-- Live Site URL: https://x3python.github.io/Frontend-Mentor-QR-code-component/
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-landing-page-with-using-grid-css-JUk_wAd6hh
+- Live Site URL: https://x3python.github.io/-Frontend-Mentor---Four-card-feature-section/
 
 ### Built with
 
